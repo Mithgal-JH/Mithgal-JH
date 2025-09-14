@@ -2,7 +2,7 @@
 
 Computer Science Student @ Palestine Polytechnic University | Software Developer Trainee
 
-I'm a student with a strong passion for Artificial Intelligence and Machine Learning. My main focus is on deepening my knowledge in AI and honing my problem-solving skills through algorithms and data structures. I also have previous experience in Full-Stack Web Development, where I built applications using React and Firebase.
+My focus is on Artificial Intelligence and Machine Learning, where I apply my skills in algorithms and Python. I also have a practical background in web development using React and Firebase.
 
 ---
 
