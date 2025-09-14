@@ -1,9 +1,8 @@
 # 👋 Hey, I'm Mithgal Alhrene  
 
-🎓 Computer Science student at **Palestine Polytechnic University**  
-💻 Software Developer Trainee  
-🤖 Passionate about **AI, Machine Learning, and Web Development**  
-🌱 Exploring the intersection of **frontend technologies (React, Firebase)** and **intelligent systems**  
+Computer Science Student @ Palestine Polytechnic University | Software Developer Trainee
+
+I'm a student with a strong passion for Artificial Intelligence and Machine Learning. My main focus is on deepening my knowledge in AI and honing my problem-solving skills through algorithms and data structures. I also have previous experience in Full-Stack Web Development, where I built applications using React and Firebase.
 
 ---
 
