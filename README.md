@@ -1,120 +1,69 @@
-# 👋 Hey, I'm Mithgal Alhrene  
-**AI Engineering Student & Applied LLM Developer**  
-Building intelligent systems powered by Retrieval, Agents, and FastAPI backend architectures.
+# 👋 Hey, I'm Mithgal Alhrene
 
-I develop AI-driven applications with a strong focus on:
-- **RAG Pipelines**
-- **LLM Agents & Tool Calling**
-- **Vector Databases**
-- **Data Retrieval Optimization**
-- **FastAPI Backends for AI Services**
+I'm a 3rd-year Computer Science student at Palestine Polytechnic University.
 
-💡 Passionate about transforming raw data into reasoning-powered AI systems that produce accurate and grounded results.
+I'm currently learning and experimenting with practical AI concepts by building small projects focused on:
+- Retrieval-Augmented Generation (RAG)
+- LLM Agents
+- Basic NLP
+- Backend for AI services
 
----
-
-## 🚀 Featured AI Projects
-
-### 🔹 CR7-Chatbot — RAG Intelligent Agent  
-**LangChain | Google Gemini | ChromaDB | Tavily API**
-- Built a domain-specific RAG pipeline with embeddings, text-chunking, and metadata filtering  
-- Integrated Tavily search to enhance factuality and keep responses up-to-date  
-- Architected modular FastAPI endpoints for context retrieval, agent execution, and inference  
-🔗 Repo: https://github.com/Mithgal-JH/CR7-Chatbot
+I use projects as a way to understand fundamentals more clearly and improve my engineering skills step by step.
 
 ---
 
-### 🔹 Multi-Tech NLP Movie Recommender  
-**spaCy | Scikit-learn | Vectorization | Similarity Scoring**
-- Implemented content-based recommendation using TF-IDF, spaCy vectors, and cosine similarity  
-- Benchmarked preprocessing techniques and representation quality  
-🔗 Repo: https://github.com/Mithgal-JH/nlp-movie-recommender
+## 🚀 Projects
+
+### 🔹 CR7-Chatbot (RAG)
+**LangChain | Gemini | ChromaDB | Tavily**  
+A simple RAG-based agent that answers domain-specific questions using:
+- embeddings  
+- a vector database  
+- a retrieval pipeline  
+- web search  
+
+🔗 https://github.com/Mithgal-JH/CR7-Chatbot
 
 ---
 
-### 🔹 FreshCart — Full-stack E-commerce App  
-**React.js | Firebase Auth | Firestore | Protected Routing**
-- Authentication (Google/Email)
-- Real-time DB syncing  
-- Clean front-end structure and UI state patterns  
-🔗 Repo: https://github.com/Mithgal-JH/FreshCart
+### 🔹 NLP Movie Recommender
+**spaCy | Scikit-learn**  
+Content-based movie recommendation using text preprocessing, vectorization, and similarity scoring.
+
+🔗 https://github.com/Mithgal-JH/nlp-movie-recommender
 
 ---
 
-## 🧠 What I’m Currently Building
-⚙️ **Multi-Agent System (LangGraph / CrewAI)**  
-Exploring:
-- Agent collaboration  
-- Task planning  
-- Graph-based execution flows  
-- Persistent memory and tool-chaining  
+### 🔹 FreshCart (Web App)
+**React.js | Firebase**  
+Basic e-commerce web app with authentication, product browsing, and a shopping cart.
 
-Goal: Create autonomous teams capable of research, analysis, summarization, and code generation.
+🔗 https://github.com/Mithgal-JH/FreshCart
 
 ---
 
-## 🧱 Tech Stack
+## 🧱 Skills
 
-### 🧠 Core AI Engineering  
-- RAG Pipelines  
-- LangChain & Agents  
-- Google Gemini API  
-- ChromaDB (Local Vector DB)  
-- PDF Q&A  
-- NLP (spaCy, sklearn)  
-
-### ⚙ Backend & Systems  
-- FastAPI  
-- SQL / SQLite  
-- REST APIs  
-- Authentication flows  
-- Deployment (Docker basics)
-
-### 🧩 Software Engineering  
-- Data Structures & Algorithms  
-- OOP & Clean Architecture  
-- Problem Solving (Codeforces)
-
-### 🌐 Web Development  
-- React.js  
-- Firebase Auth + Firestore  
-- UI State & Routing  
-
----
-
-## 🔗 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/mithgalalhrene)  
-[Codeforces](https://codeforces.com/profile/mithgal_jamal)  
-[Email](mailto:mithgaljamal@gmail.com)
-
----
-
-## 📊 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithgal-JH&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mithgal-JH&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-333333?style=flat" />
+  <img src="https://img.shields.io/badge/Backend-555555?style=flat" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-## 🏆 Highlights
-- Built multiple AI systems integrating RAG, Agents, and web search  
-- Strong foundation in Python, algorithms, and database design  
-- Proven ability to learn, iterate, and ship real projects  
+## 🔗 Links
+**LinkedIn**  
+https://www.linkedin.com/in/mithgalalhrene
 
----
+**Codeforces**  
+https://codeforces.com/profile/mithgal_jamal
 
-## 🤝 Open For Collaboration
-If you’re working on:
-- AI Products  
-- RAG Pipelines  
-- Vector Retrieval Systems  
-- Intelligent Multi-Agent Frameworks  
-
-…I’d love to connect, discuss, or contribute.
-
----
-
-## 🎯 Career Goal
-To become an **AI/LLM Engineer** capable of designing scalable, agent-powered systems that augment human intelligence — with a strong mix of backend engineering, vector retrieval, and structured reasoning.
+**GitHub**  
+https://github.com/Mithgal-JH
