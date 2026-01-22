@@ -4,7 +4,6 @@
 
 I am a 3rd-year CS student transitioning into **AI Engineering**. My current focus is bridging the gap between theoretical ML concepts and practical software engineering by building **RAG pipelines**, **LLM Agents**, and **scalable Backends**.
 
-I am also an active competitive programmer on **Codeforces**, constantly sharpening my algorithmic problem-solving skills.
 
 ---
 
