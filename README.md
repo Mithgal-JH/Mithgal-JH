@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Mithgal Alhrene
-
 ### 🎓 Computer Science Student @ Palestine Polytechnic University
 
-I am a 3rd-year CS student transitioning into **AI Engineering**. My current focus is bridging the gap between theoretical ML concepts and practical software engineering by building **RAG pipelines**, **LLM Agents**, and **scalable Backends**.
-
+3rd-year CS student focused on **AI Engineering** and **Backend Development** — building RAG pipelines, LLM-powered applications, and scalable REST APIs.
 
 ---
 
-## 📊 GitHub Activities & Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mithgal-JH&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
@@ -45,31 +43,40 @@ I am a 3rd-year CS student transitioning into **AI Engineering**. My current foc
 
 ## 🚀 Featured Projects
 
-### 🧠 [CR7-Chatbot (RAG Agent)](https://github.com/Mithgal-JH/CR7-Chatbot)
+### 🎓 [Smart University Assistant](https://github.com/Mithgal-JH/smart-university-assistant)
+> **Stack:** FastAPI, LangChain, Gemini, ChromaDB
+
+A conversational assistant for university-related tasks, combining RAG and LLM reasoning.
+- Supports course management via chat (add/delete/view) with multi-step state handling.
+- Uses semantic embeddings, memory summarization, and LLM-based validation to reduce hallucinations.
+
+---
+
+### 🧠 [CR7 Chatbot (RAG Agent)](https://github.com/Mithgal-JH/CR7-Chatbot)
 > **Stack:** LangChain, Gemini, ChromaDB, Tavily Search
 
-A Retrieval-Augmented Generation agent designed to answer domain-specific questions.
-* **Vector Search:** Uses ChromaDB embeddings to retrieve context.
-* **Agentic Behavior:** Utilizes Tavily for web search when the vector store lacks context.
+A domain-specific RAG agent that combines vector retrieval with live web search.
+- Retrieves semantically relevant context from ChromaDB before querying the LLM.
+- Falls back to Tavily web search when the vector store has insufficient coverage.
+
+
+---
 
 ### ⚡ [FastAPI Backend Service](https://github.com/Mithgal-JH/FastAPI_Training_Project)
-> **Stack:** FastAPI, Python, Pydantic, SQL
+> **Stack:** FastAPI, Python, Pydantic, SQLAlchemy, SQLite
 
-A robust backend service designed to master high-performance API development.
-* **RESTful Architecture:** Implemented standard CRUD operations and path operations.
-* **Validation:** Leveraged Pydantic models for strict data validation and serialization.
+A RESTful backend service covering core API development patterns.
+- Full CRUD operations with Pydantic-enforced request validation and serialization.
+- Secure password hashing and structured authentication flow.
 
-### 🎬 [NLP Movie Recommender](https://github.com/Mithgal-JH/nlp-movie-recommender)
-> **Stack:** spaCy, Scikit-learn
-
-A content-based recommendation engine.
-* Performs text preprocessing and vectorization on movie plots.
-* Calculates cosine similarity scores to suggest relevant movies.
+---
 
 ### 🛒 [FreshCart](https://github.com/Mithgal-JH/FreshCart)
 > **Stack:** React.js, Firebase
 
-A full-featured e-commerce web application with user authentication and real-time shopping cart functionality.
+A full-featured e-commerce web app with authentication and real-time data.
+- Firebase Auth for user sessions and Firestore for live cart and product state.
+- Client-side routing and REST API integration for a smooth shopping experience.
 
 ---
 
