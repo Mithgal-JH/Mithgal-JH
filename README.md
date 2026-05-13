@@ -44,11 +44,15 @@
 ## 🚀 Featured Projects
 
 ### 🎓 [Smart University Assistant](https://github.com/Mithgal-JH/smart-university-assistant)
-> **Stack:** FastAPI, LangChain, Gemini, ChromaDB
+> **Stack:** FastAPI, LangChain, Ollama, Llama 3, ChromaDB, Firebase
 
-A conversational assistant for university-related tasks, combining RAG and LLM reasoning.
-- Supports course management via chat (add/delete/view) with multi-step state handling.
-- Uses semantic embeddings, memory summarization, and LLM-based validation to reduce hallucinations.
+An AI-powered university assistant that combines Retrieval-Augmented Generation (RAG) with backend-driven workflows to support both informational and transactional university tasks.
+
+- Implements semantic retrieval using ChromaDB and embedding-based document search over a custom university knowledge base.
+- Uses Llama 3 through Ollama for local LLM inference and conversational reasoning.
+- Supports multi-step course management workflows with state-aware conversation handling.
+- Integrates Firebase for authentication and persistent user-specific data management.
+- Includes conversational memory and retrieval grounding techniques to improve response relevance and reduce hallucinations.
 
 ---
 
