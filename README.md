@@ -29,7 +29,7 @@ Computer Science student specializing in **Backend Engineering** and **AI/LLM Sy
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 </p>
 
-**🌐 Frontend **
+**🌐 Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
