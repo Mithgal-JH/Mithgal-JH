@@ -5,9 +5,9 @@ Computer Science student specializing in **Backend Engineering** and **AI/LLM Sy
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**🤖 AI & Machine Learning**
+**AI & Machine Learning**
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FE2C55?style=flat&logoColor=white" />
@@ -18,7 +18,7 @@ Computer Science student specializing in **Backend Engineering** and **AI/LLM Sy
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 </p>
 
-**💻 Backend & Databases**
+**Backend & Databases**
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
@@ -29,7 +29,7 @@ Computer Science student specializing in **Backend Engineering** and **AI/LLM Sy
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 </p>
 
-**🌐 Frontend**
+**Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -37,7 +37,7 @@ Computer Science student specializing in **Backend Engineering** and **AI/LLM Sy
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
-**⚙️ Languages & Tools**
+**Languages & Tools**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
@@ -47,9 +47,9 @@ Computer Science student specializing in **Backend Engineering** and **AI/LLM Sy
 
 ---
 
-## 🚀 Featured Projects
+##Featured Projects
 
-### 🎓 [Smart University Assistant](https://github.com/Mithgal-JH/smart-university-assistant)
+### [Smart University Assistant](https://github.com/Mithgal-JH/smart-university-assistant)
 > **Stack:** FastAPI · LangChain · Ollama · Llama 3 · ChromaDB · Firebase
 
 An AI-powered university assistant combining RAG with backend-driven workflows to handle both informational queries and transactional university tasks.
@@ -62,7 +62,7 @@ An AI-powered university assistant combining RAG with backend-driven workflows t
 
 ---
 
-### 🧠 [CR7 Chatbot — RAG Agent](https://github.com/Mithgal-JH/CR7-Chatbot)
+### [CR7 Chatbot — RAG Agent](https://github.com/Mithgal-JH/CR7-Chatbot)
 > **Stack:** LangChain · Gemini API · ChromaDB · Tavily Search
 
 A domain-specific RAG agent combining vector-based retrieval with real-time web search.
@@ -72,7 +72,7 @@ A domain-specific RAG agent combining vector-based retrieval with real-time web 
 
 ---
 
-### ⚡ [FastAPI Backend Service](https://github.com/Mithgal-JH/FastAPI_Training_Project)
+### [FastAPI Backend Service](https://github.com/Mithgal-JH/FastAPI_Training_Project)
 > **Stack:** FastAPI · Pydantic · SQLAlchemy · SQLite
 
 A RESTful API service demonstrating core backend development patterns.
@@ -82,7 +82,7 @@ A RESTful API service demonstrating core backend development patterns.
 
 ---
 
-### 🛒 [FreshCart — E-Commerce Platform](https://github.com/Mithgal-JH/FreshCart)
+### [FreshCart — E-Commerce Platform](https://github.com/Mithgal-JH/FreshCart)
 > **Stack:** React.js · Firebase Auth · Firestore
 
 A full-featured e-commerce web application with authentication and real-time data.
@@ -92,7 +92,7 @@ A full-featured e-commerce web application with authentication and real-time dat
 
 ---
 
-## 🎓 Education & Training
+## Education & Training
 
 **Bachelor of Computer Science** — Palestine Polytechnic University *(Expected: Sep 2027)*
 Relevant Coursework: Data Structures, Algorithms, Object-Oriented Programming, Database Systems
@@ -103,7 +103,7 @@ Relevant Coursework: Data Structures, Algorithms, Object-Oriented Programming, D
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mithgal-JH&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
@@ -112,7 +112,7 @@ Relevant Coursework: Data Structures, Algorithms, Object-Oriented Programming, D
 
 ---
 
-## 📫 Connect
+## Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mithgalalhrene" target="_blank">
