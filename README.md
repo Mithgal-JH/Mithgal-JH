@@ -47,7 +47,7 @@ Computer Science student specializing in **Backend Engineering** and **AI/LLM Sy
 
 ---
 
-##Featured Projects
+## Featured Projects
 
 ### [Smart University Assistant](https://github.com/Mithgal-JH/smart-university-assistant)
 > **Stack:** FastAPI · LangChain · Ollama · Llama 3 · ChromaDB · Firebase
