@@ -1,127 +1,207 @@
-# Mithgal Alhrene
-### Backend & AI Engineer · CS Student @ Palestine Polytechnic University
+<div align="center">
 
-Computer Science student specializing in **Backend Engineering** and **AI/LLM Systems**. I build production-ready solutions — from scalable REST APIs to Retrieval-Augmented Generation (RAG) pipelines — with a focus on clean architecture, performance, and real-world usability. My work spans end-to-end development, combining solid software engineering fundamentals with applied AI.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mithgal%20Alhrene&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20CS%20Student&descAlignY=52&descAlign=62" />
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&width=650\&lines=Backend+%26+AI+Engineer;Building+RAG+%26+LLM+Systems;FastAPI+%7C+NestJS+%7C+LangChain;Production-Ready+Backend+Solutions)](https://git.io/typing-svg)
 
-## Tech Stack
+<br/>
 
-**AI & Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FE2C55?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mithgalalhrene)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/mithgal_jamal)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mithgaljamal@gmail.com)
 
-**Backend & Databases**
-<p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-</p>
-
-**Languages & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+</div>
 
 ---
 
-## Featured Projects
+# 👋 About Me
 
-### [Smart University Assistant](https://github.com/Mithgal-JH/smart-university-assistant)
-> **Stack:** FastAPI · LangChain · Ollama · Llama 3 · ChromaDB · Firebase
+> Building AI-powered backend systems and scalable software solutions.
 
-An AI-powered university assistant combining RAG with backend-driven workflows to handle both informational queries and transactional university tasks.
+Computer Science student at **Palestine Polytechnic University** specializing in **Backend Engineering** and **AI/LLM Systems**.
 
-- Implemented semantic retrieval using ChromaDB and embedding-based document search over a custom university knowledge base.
-- Integrated Llama 3 via Ollama for local LLM inference and multi-turn conversational reasoning.
-- Designed state-aware conversation handling to support multi-step course management workflows.
-- Applied conversational memory and retrieval grounding techniques to improve response accuracy and reduce hallucinations.
-- Integrated Firebase for authentication and persistent, user-specific data management.
+I build production-ready applications ranging from scalable REST APIs and backend services to Retrieval-Augmented Generation (RAG) systems and AI-powered assistants. My focus is on designing maintainable architectures, integrating modern AI technologies, and delivering solutions that solve real-world problems.
+
+I enjoy working at the intersection of **Software Engineering** and **Artificial Intelligence**, combining strong backend foundations with practical LLM applications, semantic search, and conversational AI.
 
 ---
 
-### [CR7 Chatbot — RAG Agent](https://github.com/Mithgal-JH/CR7-Chatbot)
-> **Stack:** LangChain · Gemini API · ChromaDB · Tavily Search
+# ⚡ Tech Stack
 
-A domain-specific RAG agent combining vector-based retrieval with real-time web search.
+### Languages
 
-- Retrieves semantically relevant context from ChromaDB prior to LLM inference.
-- Falls back to the Tavily Web Search API when vector store coverage is insufficient.
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
----
+### Backend & Databases
 
-### [FastAPI Backend Service](https://github.com/Mithgal-JH/FastAPI_Training_Project)
-> **Stack:** FastAPI · Pydantic · SQLAlchemy · SQLite
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![Redis](https://skillicons.dev/icons?i=redis)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-A RESTful API service demonstrating core backend development patterns.
+### AI & Machine Learning
 
-- Implemented full CRUD operations with Pydantic-enforced request validation and serialization.
-- Integrated secure password hashing and a structured authentication flow.
+* LangChain
+* ChromaDB
+* Gemini API
+* Ollama / Llama 3
+* spaCy
+* Scikit-Learn
+* Pandas
+* NumPy
 
----
+### Tools
 
-### [FreshCart — E-Commerce Platform](https://github.com/Mithgal-JH/FreshCart)
-> **Stack:** React.js · Firebase Auth · Firestore
-
-A full-featured e-commerce web application with authentication and real-time data.
-
-- Implemented Firebase Auth for user session management and Firestore for live cart and product state.
-- Integrated client-side routing and external REST APIs for a seamless shopping experience.
-
----
-
-## Education & Training
-
-**Bachelor of Computer Science** — Palestine Polytechnic University *(Expected: Sep 2027)*
-Relevant Coursework: Data Structures, Algorithms, Object-Oriented Programming, Database Systems
-
-**Certifications & Training**
-- AI Training — Olympics in Artificial Intelligence & Gaza Sky Geeks (GSG): Machine Learning, Deep Learning, and Computer Vision fundamentals
-- Responsive Web Design · Problem Solving certifications
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Github](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-## GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithgal-JH&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithgal-JH&theme=tokyonight&hide_border=true" height="150" />
-</p>
+## 🎓 Smart University Assistant
+
+**Tech Stack:** FastAPI · LangChain · ChromaDB · Ollama · Llama 3 · Firebase
+
+AI-powered university assistant combining Retrieval-Augmented Generation with backend-driven workflows.
+
+### Highlights
+
+* Semantic search over a university knowledge base
+* Local Llama 3 inference using Ollama
+* Stateful multi-step academic workflows
+* Retrieval grounding to reduce hallucinations
+* Firebase authentication and persistent user data
+
+🔗 Repository:
+https://github.com/Mithgal-JH/smart-university-assistant
 
 ---
 
-## Connect
+## 🤖 CR7 Chatbot
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mithgalalhrene" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/mithgal_jamal" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="mailto:mithgaljamal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Tech Stack:** LangChain · Gemini API · ChromaDB · Tavily Search
+
+Domain-specific RAG chatbot using vector retrieval and real-time web search.
+
+### Highlights
+
+* ChromaDB semantic retrieval
+* Gemini-powered responses
+* Tavily web-search fallback
+* Modular LangChain pipeline
+
+🔗 Repository:
+https://github.com/Mithgal-JH/CR7-Chatbot
+
+---
+
+## ⚡ FastAPI Backend Service
+
+**Tech Stack:** FastAPI · SQLAlchemy · SQLite · Pydantic
+
+RESTful backend service implementing modern API development patterns.
+
+### Highlights
+
+* Full CRUD operations
+* Authentication system
+* Password hashing
+* Request validation
+* Clean architecture
+
+🔗 Repository:
+https://github.com/Mithgal-JH/FastAPI_Training_Project
+
+---
+
+## 🛒 FreshCart
+
+**Tech Stack:** React · Firebase Auth · Firestore
+
+Full-stack e-commerce platform with authentication and real-time data.
+
+### Highlights
+
+* Firebase Authentication
+* Firestore integration
+* Shopping cart functionality
+* Real-time state synchronization
+
+🔗 Repository:
+https://github.com/Mithgal-JH/FreshCart
+
+---
+
+# 🎯 Currently Building
+
+* 🤖 Advanced RAG Applications
+* ⚡ Backend Services with FastAPI & PostgreSQL
+* 🏗️ Microservices Architecture
+* 🐳 Docker & CI/CD Workflows
+* 🔍 Vector Search & AI Agents
+
+---
+
+# 🎓 Education
+
+### Bachelor of Computer Science
+
+**Palestine Polytechnic University**
+
+Expected Graduation: **September 2027**
+
+### Relevant Coursework
+
+* Data Structures
+* Algorithms
+* Object-Oriented Programming
+* Database Systems
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mithgal-JH&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mithgal-JH&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithgal-JH&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mithgal_Alhrene-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mithgalalhrene)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-mithgal__jamal-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/mithgal_jamal)
+
+[![Email](https://img.shields.io/badge/Gmail-mithgaljamal%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mithgaljamal@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Clean architecture isn't a style choice — it's an engineering discipline."*
+
+</div>
