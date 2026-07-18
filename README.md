@@ -44,6 +44,6 @@ I care about clean architecture, maintainable code, and solving real-world probl
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mithgal-JH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="[https://github-readme-stats.vercel.app/api?username=Mithgal-JH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Mithgal-JH&show_icons=true&theme=tokyonight&hide_border=true)"/>
 
 </div>
