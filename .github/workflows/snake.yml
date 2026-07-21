@@ -27,6 +27,7 @@ jobs:
           sudo mkdir -p /tmp/snake-output
           sudo cp -r dist/* /tmp/snake-output/
           sudo chown -R $USER:$USER /tmp/snake-output
+          sudo rm -rf dist
 
       - uses: actions/checkout@v4
         with:
