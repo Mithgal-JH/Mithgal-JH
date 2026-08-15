@@ -12,9 +12,10 @@
 
 # 👋 About Me
 
-Computer Science student at **Palestine Polytechnic University**, focused on **Backend Engineering**. I build scalable REST APIs and backend systems, with working experience in AI/LLM integration and RAG-based applications.
+Focused on **Backend Engineering**, currently learning **.NET** and building a stronger foundation in REST APIs, clean architecture, and system design.
 
-I care about clean architecture, maintainable code, and solving real-world problems through solid backend design.
+Interested in writing clean, maintainable code and building reliable backend systems. Also exploring **AI and LLM-based applications** alongside my backend development journey.
+
 
 ---
 
