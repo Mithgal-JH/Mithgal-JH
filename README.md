@@ -53,7 +53,7 @@ Interested in writing clean, maintainable code and building reliable backend sys
 ---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-rho-beige-3ti1j24o53.vercel.app/api?username=Mithgal-JH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img src="https://streak-stats.demolab.com?user=Mithgal-JH&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
