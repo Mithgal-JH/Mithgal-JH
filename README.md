@@ -23,20 +23,19 @@ Interested in writing clean, maintainable code and building reliable backend sys
 
 ### Languages
 ![Python](https://skillicons.dev/icons?i=python)
+![CSharp](https://skillicons.dev/icons?i=cs)
 ![Java](https://skillicons.dev/icons?i=java)
 ![CPP](https://skillicons.dev/icons?i=cpp)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 
 ### Backend & Databases
+![.NET](https://skillicons.dev/icons?i=dotnet)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Redis](https://skillicons.dev/icons?i=redis)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
 
 ### Tools
 ![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Github](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
