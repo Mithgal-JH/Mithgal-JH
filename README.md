@@ -53,7 +53,9 @@ Interested in writing clean, maintainable code and building reliable backend sys
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mithgal-JH&theme=tokyonight&hide_border=true" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithgal-JH&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
